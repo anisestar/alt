@@ -6,7 +6,7 @@ description = "The Pax Package Manager"
 version = "1.0.3"
 authors = [
   "Lleyton <lleyton@innatical.com>",
-  "Anise Star <anise@e.email>",
+  "Jade Star <jade@e.email>",
   "Jamie Thalacker <hello@jamiethalacker.dev>"
 ]
 maintainers = [
